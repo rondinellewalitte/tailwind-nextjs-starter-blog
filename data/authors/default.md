@@ -1,16 +1,22 @@
 ---
-name: Tails Azimuth
+name: Rondinelle Walitte
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+occupation: Diretor de TI
+company: Máxima Impressão
+email: rondinellewalitte@gmail.com
+twitter: https://twitter.com/Rondinelle_W
+linkedin: https://www.linkedin.com/in/rondinelle-walitte
+github: https://github.com/rondinellewalitte
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Eu sou Rondinelle Walitte, ajudo empresas a obterem lucros e conquistarem suas metas. Sou Graduando em Engenharia de Software, Técnico em Informática. Tenho mais de 10 anos de experiência profissional.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Capacidade para atuar como Desenvolvedor JR, Analista de Suporte Técnico, Engenheiro de Dados JR.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Programação, codificação e teste de linguagens de programação, com base nos sistemas desenvolvidos pelos analistas | Manutenção dos sistemas, fazendo eventuais correções necessárias, visando atender às necessidades dos usuários | Depuração e testes de programas, executando serviços de manutenção nos programas já existentes.
+
+Seleção, implantação e manutenção de hardwares e software básico e de apoio | Definição de controle de acesso aos recursos, participação na documentação de rotina e acompanhamento do desempenho dos recursos técnicos instalados.
+
+Gerenciar, otimizar, analisar, supervisionar e monitorar a recuperação, armazenamento e distribuição de dados em toda a organização.
+
+Colaboração | Comunicação | Inteligência emocional | Organização | Dedicação.
